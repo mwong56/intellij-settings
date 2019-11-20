@@ -1,6 +1,6 @@
 <application>
   <component name="ScalaSettings">
     <option name="COMPILE_SERVER_ID" value="14e708ad-c22a-4522-bcb9-cc13ad1d9a15" />
-    <option name="COMPILE_SERVER_SDK" value="1.8 Azure" />
+    <option name="COMPILE_SERVER_SDK" value="1.8" />
   </component>
 </application>
